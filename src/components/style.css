@@ -1,0 +1,67 @@
+ul {
+  margin: 0;
+  display: block;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #f1f1f1;
+}
+
+li a:hover {
+  background: #111;
+  color: chocolate;
+}
+
+/*---===== Home Component style ===---*/
+.home {
+  background: lightblue;
+  padding: 0;
+  margin: 0;
+  height: 598px;
+}
+.home h1 {
+  margin: 0;
+}
+
+/*---===== About Component style ===---*/
+.about {
+  background: rgb(212, 66, 164);
+  padding: 0;
+  margin: 0;
+  height: 598px;
+}
+.about h1 {
+  margin: 0;
+}
+
+/*---===== Services Component style ===---*/
+.services {
+  background: rgb(83, 212, 66);
+  padding: 0;
+  margin: 0;
+  height: 598px;
+}
+.services h1 {
+  margin: 0;
+}
+
+/*---===== ContactUs Component style ===---*/
+.contactus {
+  background: rgb(212, 185, 66);
+  padding: 0;
+  margin: 0;
+  height: 598px;
+}
+.contactus h1 {
+  margin: 0;
+}
